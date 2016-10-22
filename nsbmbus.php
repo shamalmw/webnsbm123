@@ -1,0 +1,1 @@
+<h1 style="text-align:center;color:red">WELCOME TO SCHOOL OF BUSINESS</h1>
